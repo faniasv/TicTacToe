@@ -1,4 +1,4 @@
-<h1 align = "center">TicTacToe-Object-oriented</h1>
+<h1 align = "center">TicTacToe-Object-Oriented-with-Computer-Enemy</h1>
 
 ---
 
@@ -35,11 +35,11 @@
 
 - This class is the inheritance of Player that maintains all the algorithyms to fight the Player.
 
-### 4. Grid.java
+### 5. Grid.java
 
 - This class controls all the attributes that a grid possesses.
 
-### 7. App.java
+### 6. App.java
 
 - **Only** this class has the main() method.
 
