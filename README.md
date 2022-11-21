@@ -48,7 +48,7 @@
 ## Instructions about how to setup the project in the IDE console
 
 1. Open Visual Studio Code (or any other IDE like Eclipse). Create a new project.
-2. Copy-paste all the above-mentioned  **7** .java files to the **/src** directory of the project.
+2. Copy-paste all the above-mentioned  **6** .java files to the **/src** directory of the project.
 3. Click the run button. Everything should work!
 
 ---
